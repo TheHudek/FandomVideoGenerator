@@ -1,4 +1,4 @@
-# FandomVideoMGenerator created by TheHudek
+# FandomVideoGenerator created by TheHudek
 
 from dotenv import load_dotenv
 
