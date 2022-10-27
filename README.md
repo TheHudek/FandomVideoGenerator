@@ -15,6 +15,7 @@ This tool generates 1080 x 1920 videos based on any fandom page with alternating
 
 ## Usage
 
+- Rename `.env.template` to `.env`
 - Change the texts in `.env`. `PROMPT`and `WIKI` should be copied from the fandom URL. `LENGTH` is the maximum length of the video in seconds. The actual length of the video depends on the number of images chosen and will likely be much shorter. `BACKGROUND_LINK` and `AUDIO_LINK` are YouTube links used for the ambience of the video. These files will only be downloaded when you change them. `INTRO` is the first sentence that will be read in the beginning of the video. Please don't make this too short as the speech-to-text API might crash. Example settings for https://gameofthrones.fandom.com/wiki/Daenerys_Targaryen:
 
 ```.env
