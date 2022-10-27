@@ -2,14 +2,14 @@
 
 ## About
 
-This tool generates 1080 x 1920 videos based on any fandom page with alternating images and voiceover. Being my first GitHub project, this is a highly alpha version, but feel free to report any bugs that you may have found. Please mention my name under the videos you generate using this tool. Tested in Python 3.7+.
+This tool generates 1080 x 1920 videos based on any fandom page with alternating images and voiceover. Being my first GitHub project, this is a highly alpha version, but feel free to report any bugs that you may have found. Please mention my name under the videos you generate using this tool. Tested in Python 3.10.4.
 
 [![LICENSE](https://img.shields.io/badge/License-Apache_2.0-green)](https://github.com/TheHudek/FandomVideoGenerator/blob/main/LICENSE.md)
 [![Language](https://img.shields.io/badge/Language-Python3-blue.svg)](https://www.python.org/)
 
 ## Installation
 
-- Have Python 3.7+ installed.
+- Have Python 3 installed.
 - Clone this repository
 - Run `pip install -r requirements.txt`
 
