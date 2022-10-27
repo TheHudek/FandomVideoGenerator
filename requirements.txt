@@ -1,0 +1,9 @@
+fandom-py==0.2.1
+requests==2.27.1
+bing-image-downloader==1.1.2
+moviepy==1.0.3
+bs4==0.0.1
+mutagen==1.45.1
+pytube==12.1.0
+python-dotenv==0.20.0
+pillow==9.2.0
