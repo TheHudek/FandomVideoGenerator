@@ -11,7 +11,7 @@ This tool generates 1080 x 1920 videos based on any fandom page with alternating
 
 - Have Python 3 installed
 - Clone this repository
-- Run `pip install -r requirements.txt`
+- Run `pip3 install -r requirements.txt`
 
 ## Usage
 
@@ -27,7 +27,7 @@ AUDIO_LINK="https://www.youtube.com/watch?v=EGcXF0iG-2s"
 INTRO="Game Of Thrones Characters Part 1 - Daenerys Targaryen"
 ```
 
-- Run `python main.py`
+- Run `python3 main.py`
 - After the images are downloaded, you should see a window pop up. Based on the file names, select the images that you would like to use in the video. Separate them with commas.
 - A number of sentences will be printed. Mainly from the beginning of the list, please select the sentences that should not be included in the video. These tend to be quotes from the characters or ads.
 - Voilà
