@@ -1,5 +1,5 @@
 fandom-py==0.2.1
-requests==2.27.1
+requests==2.31.0
 bing-image-downloader==1.1.2
 moviepy==1.0.3
 bs4==0.0.1
